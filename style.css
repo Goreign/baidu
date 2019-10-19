@@ -1,0 +1,247 @@
+.first{
+    height: 30px;
+    width:1366px;
+    margin :0 auto;
+    border-bottom:1px solid rgb(209, 207, 207);
+}
+*{
+    margin:0;
+}
+.o1{height:25px;
+    width:100px;
+   
+    font-size:12px;
+    text-indent:1em;
+    color:gray;
+    padding-top: 10px;
+    float: left;
+    }
+.o2{
+    color:dodgerblue;
+    width:25px;
+    height:25px;
+   
+    font-size:12px;
+    float: left;
+    padding-top: 10px;
+    font-weight:bold;
+}
+.o3{
+    height:25px;
+    width:22px;
+   
+    font-size:12px;
+    color:gray;
+    padding-top: 10px;
+    float: left;
+    }
+.o4{
+    color:gray;
+    width:15px;
+    height:25px;
+   
+    font-size:12px;
+    float: left;
+    padding-top: 10px;
+    }
+.o5{
+    color:gray;
+    width:40px;
+    height:25px;
+  
+    font-size:12px;
+    float: left;
+    padding-top: 10px;
+    text-decoration: underline;
+}
+.o6{
+    color:gray;
+    width:40px;
+    height:25px;
+
+    font-size:12px;
+    float: left;
+    padding-top: 10px;
+    text-decoration: underline;
+}
+.o7{
+    color:gray;
+    width:620px;
+    height:25px;
+  
+    font-size:12px;
+    float: left;
+    padding-top: 10px;
+    text-decoration: underline;
+}
+.o8{text-decoration: underline;
+    font-weight:bold;
+    color:rgb(32, 31, 31);
+    font-size:13px;
+    width:45px;
+    height:25px;
+  
+    float:left;
+    padding-top: 10px;
+}
+.o9{text-decoration: underline;
+    font-weight:bold;
+    color:rgb(32, 31, 31);
+    font-size:13px;
+    width:68px;
+    height:25px;
+   
+    float:left;
+    padding-top: 10px;
+}
+.o10{text-decoration: underline;
+    font-weight:bold;
+    color:rgb(32, 31, 31);
+    font-size:13px;
+    width:50px;
+    height:25px;
+  
+    float:left;
+    padding-top: 10px;
+}
+.o11{text-decoration: underline;
+    font-weight:bold;
+    color:rgb(32, 31, 31);
+    font-size:13px;
+    width:50px;
+    height:25px;
+  
+    float:left;
+    padding-top: 10px;
+}
+.o12{text-decoration: underline;
+    font-weight:bold;
+    color:rgb(32, 31, 31);
+    font-size:13px;
+    width:50px;
+    height:25px;
+   
+    float:left;
+    padding-top: 10px;
+}
+.o13{text-decoration: underline;
+    font-weight:bold;
+    color:rgb(32, 31, 31);
+    font-size:13px;
+    width:50px;
+    height:25px;
+   
+    float:left;
+    padding-top: 10px;
+}
+.o14{height:25px;
+    width:50px;
+    
+    font-size:12px;
+    color:gray;
+    padding-top: 10px;
+    float: left;
+    text-decoration: underline;
+}
+.o15{height:25px;
+    width:50px;
+   
+    font-size:12px;
+    color:gray;
+    padding-top: 10px;
+    float: left;
+    text-decoration: underline;
+}
+.o16{font-size:13px;
+    height:25px;
+    width:91px;
+    padding-top: 10px;
+    float: left;
+    text-indent:1.5em;
+    background: dodgerblue;
+    color:white;
+}
+h1 {text-align :center;}
+.first{
+    height: 35px;
+    width:1366px;
+}
+.a1{
+    height: 38px;
+    width:545px;
+    border:1px solid rgba(180, 172, 172, 0.808);;
+    float:left;
+    margin-left: 350px;
+    margin-top: 25px;
+}
+.a2{
+    margin-top: 25px;
+    height: 32px;
+    width:82px;
+    background: dodgerblue;
+    float:left;
+    color: white;
+    padding-top: 8px;
+    padding-left: 18px;
+}
+.third{
+    margin-top: 390px;
+    margin-left: 5px;
+    height:20px;
+}
+.s1{
+    margin-left: 480px;
+    height:20px;
+    width:62px;
+    font-size:11px;
+    color:rgb(168, 165, 165);
+    font-family:"宋体";
+    text-decoration: underline;
+    float:left;
+}
+.s2{    
+    height:20px;
+    width:72px;
+    font-size:11px;
+    color:rgb(168, 165, 165);
+    font-family:"宋体";
+    float:left;
+}
+.s3{
+    height:20px;
+    width:90px;
+    font-size:11px;
+    color:rgb(168, 165, 165);
+    font-family:"宋体";
+    text-decoration: underline;
+    float:left;
+}
+.s4{
+    height:20px;
+    width:55px;
+    font-size:11px;
+    color:rgb(168, 165, 165);
+    font-family:"宋体";
+    text-decoration: underline;
+    float:left;
+}
+.s5{
+    height:20px;
+    width:90px;
+    font-size:11px;
+    color:rgb(168, 165, 165);
+    font-family:"宋体";
+    float:left;
+}
+.forth{
+    height:20px;
+    width:160px;
+    font-size:11px;
+    color:rgb(168, 165, 165);
+    font-family:"宋体";
+    float:left;
+    margin-left: 600px;
+}
+
+
+
